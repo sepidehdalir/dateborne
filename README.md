@@ -1,4 +1,6 @@
 # Dateborne: Photo Date Editor
+
+**Unsubmitted recovery work — October21,2026:** A private-source fix preserves unreadable/invalid date presets and rolls back failed preset writes. Targeted native tests passed on iOS17 and26.5. No new binary, resubmission, resolved4.3 finding or approval. Existing premium campaigns are unchanged.
 Give family photos and film scans a moment in time. Set an explicit capture date and UTC offset, export separate JPEG/HEIC copies, and read the written date back before sharing.
 
 **Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. This repository is a source-free product and engineering case study; commercial source is backed up privately. First app-specific clarification sent October20,2026; concrete Apple feedback pending. This is not a binary resubmission.
