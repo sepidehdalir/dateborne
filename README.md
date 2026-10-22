@@ -31,3 +31,8 @@ By **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [
 ![Dateborne campaign 3](assets/phone-03.png)
 
 Dedicated iPhone and iPad campaigns use authentic app UI and original generated example artwork. [Product, support and privacy](https://sepidehdalir.github.io/dateborne/).
+
+
+## October 22 corrected candidate — not resubmitted
+
+Preset-preservation correction is packaged as actual local 1.0(2). Three final iOS 17 checks pass: two local StoreKit cases and the free checked-copy/share UI workflow. Package inspection caught and corrected a generated build-number mapping; the existing app-specific distribution profile resolved a wildcard-signing mismatch without removing In-App Purchase. Failed and wrong-build local attempts were retained and not uploaded. Final signed archive and App Store IPA export/signature/actual build 2 pass inspection. This is not Apple-server validation, upload, submission, 4.3 resolution or approval. Prior physical/Sandbox reports remain historical; premium iPhone/iPad campaign pixels unchanged.
